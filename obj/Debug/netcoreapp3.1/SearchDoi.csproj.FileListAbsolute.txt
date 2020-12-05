@@ -1,0 +1,17 @@
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\bin\Debug\netcoreapp3.1\SearchDoi.exe
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\bin\Debug\netcoreapp3.1\SearchDoi.deps.json
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\bin\Debug\netcoreapp3.1\SearchDoi.runtimeconfig.json
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\bin\Debug\netcoreapp3.1\SearchDoi.runtimeconfig.dev.json
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\bin\Debug\netcoreapp3.1\SearchDoi.dll
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\bin\Debug\netcoreapp3.1\SearchDoi.pdb
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\obj\Debug\netcoreapp3.1\SearchDoi.csprojAssemblyReference.cache
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\obj\Debug\netcoreapp3.1\SearchDoi.csproj.GenerateResource.cache
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\obj\Debug\netcoreapp3.1\SearchDoi.AssemblyInfoInputs.cache
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\obj\Debug\netcoreapp3.1\SearchDoi.AssemblyInfo.cs
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\obj\Debug\netcoreapp3.1\SearchDoi.dll
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\obj\Debug\netcoreapp3.1\SearchDoi.pdb
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\obj\Debug\netcoreapp3.1\SearchDoi.genruntimeconfig.cache
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\obj\Debug\netcoreapp3.1\SearchDoi.csproj.CoreCompileInputs.cache
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\obj\Debug\netcoreapp3.1\SearchDoi.csproj.CopyComplete
+C:\Users\semi_\OneDrive\Workbase\VSProject\SearchDoi\obj\Debug\netcoreapp3.1\SearchDoi.SearchDoI.resources

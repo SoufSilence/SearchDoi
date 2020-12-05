@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\asic\\OneDrive\\Workbase\\VSProject\\SearchDoi\\SearchDoi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\asic\\OneDrive\\Workbase\\VSProject\\SearchDoi\\SearchDoi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asic\\OneDrive\\Workbase\\VSProject\\SearchDoi\\SearchDoi.csproj",
+        "projectName": "SearchDoi",
+        "projectPath": "C:\\Users\\asic\\OneDrive\\Workbase\\VSProject\\SearchDoi\\SearchDoi.csproj",
+        "packagesPath": "C:\\Users\\asic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asic\\OneDrive\\Workbase\\VSProject\\SearchDoi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Users\\asic\\OneDrive\\Workbase\\VSProject\\ShadowsocksR-Windows-master\\nuget\\ARSoft.Tools.Net\\bin\\Release": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.ServiceModel.Syndication": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
